@@ -1,0 +1,11 @@
+active,products_with_it,pct_above_1pct_line,pct_below_1pct_line,median_price_usd,usually_needs
+salicylic acid (BHA),71,62.0,38.0,41.0,works below 1%: not a concern
+lactic acid (AHA),84,66.7,33.3,58.5,5-12%
+retinoids,105,66.7,33.3,60.0,works below 1%: not a concern
+vitamin C,325,74.8,25.2,50.0,8-20% (L-ascorbic acid)
+centella,33,75.8,24.2,48.0,works below 1%: not a concern
+hyaluronic acid,444,75.9,24.1,52.5,works below 1%: not a concern
+ceramides,46,76.1,23.9,50.5,works below 1%: not a concern
+glycolic acid (AHA),69,76.8,23.2,59.0,5-10%
+peptides,171,81.3,18.7,60.0,works below 1%: not a concern
+niacinamide,87,89.7,10.3,48.0,2-5%

@@ -1,0 +1,10 @@
+{
+ "products_indexed": 1231,
+ "vocabulary": 2517,
+ "loo_5nn_category_accuracy": 46.5,
+ "majority_baseline": 19.7,
+ "concept_top8_median_price_usd": 41.5,
+ "concept_top8_avg_rating": 4.3,
+ "gentle_competitors_top8_median_price_usd": 45.0,
+ "gentle_competitors_top8_avg_rating": 4.39
+}

@@ -1,0 +1,13 @@
+active,products,gentle_products,pct_gentle,avg_rating,rating_coef,median_price_usd
+centella,50,12,24.0,4.23,,48.0
+zinc oxide (mineral filter),33,17,51.5,4.13,,38.0
+chemical UV filters,50,21,42.0,4.15,,45.5
+ceramides,65,26,40.0,4.3,0.12534472428661175,48.0
+glycolic acid (AHA),91,28,30.8,4.27,,55.0
+lactic acid (AHA),110,29,26.4,4.29,,56.5
+salicylic acid (BHA),93,31,33.3,4.24,-0.03747571948349288,40.0
+niacinamide,114,33,28.9,4.19,-0.025338215521418815,48.0
+retinoids,123,51,41.5,4.17,-0.0216473690289734,62.0
+peptides,208,95,45.7,4.1,-0.07031011381685624,60.0
+vitamin C,408,148,36.3,4.16,-0.04549579744538103,49.5
+hyaluronic acid,555,202,36.4,4.17,-0.03827895539624941,50.0

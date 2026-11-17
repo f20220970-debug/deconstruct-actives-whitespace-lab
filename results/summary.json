@@ -1,0 +1,276 @@
+{
+ "products": 1472,
+ "usable_ingredient_lists": 1231,
+ "with_review_counts": 563,
+ "pct_with_phenoxyethanol": 68.6,
+ "likely_underdosed_pct": 23.9,
+ "likely_underdosed_products": 135,
+ "actives_needing_1pct_checked": [
+  "lactic acid (AHA)",
+  "vitamin C",
+  "glycolic acid (AHA)",
+  "niacinamide"
+ ],
+ "sensitive_labelled_products": 665,
+ "pct_sensitive_labelled_with_fragrance_or_allergens": 62.0,
+ "pct_not_sensitive_labelled_with_fragrance_or_allergens": 64.0,
+ "pct_sensitive_labelled_with_drying_alcohol": 9.3,
+ "pct_all_products_gentle": 34.6,
+ "avg_rating_gentle": 4.133,
+ "avg_rating_not_gentle": 4.243,
+ "price_doubling_effect_on_rating": 0.031,
+ "top_whitespace": [
+  {
+   "active": "centella",
+   "products": 50,
+   "gentle_products": 12,
+   "pct_gentle": 24.0,
+   "avg_rating": 4.23,
+   "rating_coef": NaN,
+   "median_price_usd": 48.0
+  },
+  {
+   "active": "zinc oxide (mineral filter)",
+   "products": 33,
+   "gentle_products": 17,
+   "pct_gentle": 51.5,
+   "avg_rating": 4.13,
+   "rating_coef": NaN,
+   "median_price_usd": 38.0
+  },
+  {
+   "active": "chemical UV filters",
+   "products": 50,
+   "gentle_products": 21,
+   "pct_gentle": 42.0,
+   "avg_rating": 4.15,
+   "rating_coef": NaN,
+   "median_price_usd": 45.5
+  },
+  {
+   "active": "ceramides",
+   "products": 65,
+   "gentle_products": 26,
+   "pct_gentle": 40.0,
+   "avg_rating": 4.3,
+   "rating_coef": 0.12534472428661175,
+   "median_price_usd": 48.0
+  },
+  {
+   "active": "glycolic acid (AHA)",
+   "products": 91,
+   "gentle_products": 28,
+   "pct_gentle": 30.8,
+   "avg_rating": 4.27,
+   "rating_coef": NaN,
+   "median_price_usd": 55.0
+  },
+  {
+   "active": "lactic acid (AHA)",
+   "products": 110,
+   "gentle_products": 29,
+   "pct_gentle": 26.4,
+   "avg_rating": 4.29,
+   "rating_coef": NaN,
+   "median_price_usd": 56.5
+  },
+  {
+   "active": "salicylic acid (BHA)",
+   "products": 93,
+   "gentle_products": 31,
+   "pct_gentle": 33.3,
+   "avg_rating": 4.24,
+   "rating_coef": -0.03747571948349288,
+   "median_price_usd": 40.0
+  },
+  {
+   "active": "niacinamide",
+   "products": 114,
+   "gentle_products": 33,
+   "pct_gentle": 28.9,
+   "avg_rating": 4.19,
+   "rating_coef": -0.025338215521418815,
+   "median_price_usd": 48.0
+  },
+  {
+   "active": "retinoids",
+   "products": 123,
+   "gentle_products": 51,
+   "pct_gentle": 41.5,
+   "avg_rating": 4.17,
+   "rating_coef": -0.0216473690289734,
+   "median_price_usd": 62.0
+  },
+  {
+   "active": "peptides",
+   "products": 208,
+   "gentle_products": 95,
+   "pct_gentle": 45.7,
+   "avg_rating": 4.1,
+   "rating_coef": -0.07031011381685624,
+   "median_price_usd": 60.0
+  },
+  {
+   "active": "vitamin C",
+   "products": 408,
+   "gentle_products": 148,
+   "pct_gentle": 36.3,
+   "avg_rating": 4.16,
+   "rating_coef": -0.04549579744538103,
+   "median_price_usd": 49.5
+  },
+  {
+   "active": "hyaluronic acid",
+   "products": 555,
+   "gentle_products": 202,
+   "pct_gentle": 36.4,
+   "avg_rating": 4.17,
+   "rating_coef": -0.03827895539624941,
+   "median_price_usd": 50.0
+  }
+ ],
+ "label_dusting": [
+  {
+   "active": "salicylic acid (BHA)",
+   "products_with_it": 71,
+   "pct_above_1pct_line": 62.0,
+   "pct_below_1pct_line": 38.0,
+   "median_price_usd": 41.0,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "lactic acid (AHA)",
+   "products_with_it": 84,
+   "pct_above_1pct_line": 66.7,
+   "pct_below_1pct_line": 33.3,
+   "median_price_usd": 58.5,
+   "usually_needs": "5-12%"
+  },
+  {
+   "active": "retinoids",
+   "products_with_it": 105,
+   "pct_above_1pct_line": 66.7,
+   "pct_below_1pct_line": 33.3,
+   "median_price_usd": 60.0,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "vitamin C",
+   "products_with_it": 325,
+   "pct_above_1pct_line": 74.8,
+   "pct_below_1pct_line": 25.2,
+   "median_price_usd": 50.0,
+   "usually_needs": "8-20% (L-ascorbic acid)"
+  },
+  {
+   "active": "centella",
+   "products_with_it": 33,
+   "pct_above_1pct_line": 75.8,
+   "pct_below_1pct_line": 24.2,
+   "median_price_usd": 48.0,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "hyaluronic acid",
+   "products_with_it": 444,
+   "pct_above_1pct_line": 75.9,
+   "pct_below_1pct_line": 24.1,
+   "median_price_usd": 52.5,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "ceramides",
+   "products_with_it": 46,
+   "pct_above_1pct_line": 76.1,
+   "pct_below_1pct_line": 23.9,
+   "median_price_usd": 50.5,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "glycolic acid (AHA)",
+   "products_with_it": 69,
+   "pct_above_1pct_line": 76.8,
+   "pct_below_1pct_line": 23.2,
+   "median_price_usd": 59.0,
+   "usually_needs": "5-10%"
+  },
+  {
+   "active": "peptides",
+   "products_with_it": 171,
+   "pct_above_1pct_line": 81.3,
+   "pct_below_1pct_line": 18.7,
+   "median_price_usd": 60.0,
+   "usually_needs": "works below 1%: not a concern"
+  },
+  {
+   "active": "niacinamide",
+   "products_with_it": 87,
+   "pct_above_1pct_line": 89.7,
+   "pct_below_1pct_line": 10.3,
+   "median_price_usd": 48.0,
+   "usually_needs": "2-5%"
+  }
+ ],
+ "rating_drivers": [
+  {
+   "feature": "log_price",
+   "coef_rating_points": 0.045,
+   "ci_low": 0.004,
+   "ci_high": 0.09
+  },
+  {
+   "feature": "gentle",
+   "coef_rating_points": -0.052,
+   "ci_low": -0.1,
+   "ci_high": -0.005
+  },
+  {
+   "feature": "n_actives",
+   "coef_rating_points": 0.018,
+   "ci_low": -0.011,
+   "ci_high": 0.054
+  },
+  {
+   "feature": "niacinamide",
+   "coef_rating_points": -0.025,
+   "ci_low": -0.136,
+   "ci_high": 0.073
+  },
+  {
+   "feature": "retinoids",
+   "coef_rating_points": -0.022,
+   "ci_low": -0.103,
+   "ci_high": 0.055
+  },
+  {
+   "feature": "vitamin C",
+   "coef_rating_points": -0.045,
+   "ci_low": -0.105,
+   "ci_high": 0.008
+  },
+  {
+   "feature": "salicylic acid (BHA)",
+   "coef_rating_points": -0.037,
+   "ci_low": -0.13,
+   "ci_high": 0.049
+  },
+  {
+   "feature": "hyaluronic acid",
+   "coef_rating_points": -0.038,
+   "ci_low": -0.092,
+   "ci_high": 0.013
+  },
+  {
+   "feature": "ceramides",
+   "coef_rating_points": 0.125,
+   "ci_low": 0.032,
+   "ci_high": 0.231
+  },
+  {
+   "feature": "peptides",
+   "coef_rating_points": -0.07,
+   "ci_low": -0.132,
+   "ci_high": -0.006
+  }
+ ]
+}

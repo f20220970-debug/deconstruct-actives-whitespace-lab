@@ -1,0 +1,55 @@
+category,active,products,gentle_products,pct_gentle,avg_rating,avg_rating_gentle,avg_rating_not_gentle,median_price_usd,median_reviews
+Cleanser,hyaluronic acid,53,14,26.4,4.43,4.34,4.46,32.0,74.0
+Cleanser,vitamin C,49,17,34.7,4.41,4.44,4.39,32.0,154.0
+Cleanser,salicylic acid (BHA),31,11,35.5,4.37,4.31,4.41,29.0,163.0
+Cleanser,lactic acid (AHA),30,10,33.3,4.42,4.37,4.44,37.0,183.5
+Cleanser,glycolic acid (AHA),22,8,36.4,4.44,4.44,4.44,38.0,33.0
+Cleanser,retinoids,15,2,13.3,4.4,,4.44,38.0,64.0
+Cleanser,niacinamide,10,2,20.0,4.41,,4.39,38.5,412.0
+Cleanser,peptides,10,3,30.0,4.4,4.33,4.43,28.0,89.5
+Eye cream,hyaluronic acid,102,58,56.9,3.87,3.8,3.96,50.5,35.0
+Eye cream,vitamin C,71,39,54.9,3.86,3.8,3.94,54.0,31.0
+Eye cream,peptides,59,40,67.8,3.88,3.83,3.97,60.0,35.5
+Eye cream,retinoids,29,19,65.5,3.85,3.79,3.97,65.0,24.5
+Eye cream,niacinamide,22,7,31.8,4.03,4.03,4.03,48.0,58.0
+Eye cream,lactic acid (AHA),13,6,46.2,3.92,4.0,3.84,65.0,13.0
+Eye cream,centella,13,6,46.2,3.98,3.77,4.16,48.0,60.0
+Eye cream,ceramides,10,7,70.0,4.02,3.99,4.1,65.0,4.0
+Eye cream,salicylic acid (BHA),8,2,25.0,3.66,,3.73,60.5,154.0
+Face Mask,hyaluronic acid,104,23,22.1,4.21,3.98,4.28,39.5,23.5
+Face Mask,vitamin C,49,6,12.2,4.24,3.9,4.29,36.0,33.5
+Face Mask,niacinamide,25,7,28.0,4.12,3.69,4.29,42.0,9.0
+Face Mask,peptides,16,6,37.5,4.23,4.0,4.37,73.5,13.0
+Face Mask,salicylic acid (BHA),14,1,7.1,4.32,,4.32,43.5,30.0
+Face Mask,lactic acid (AHA),13,1,7.7,4.33,,4.32,39.0,40.0
+Face Mask,ceramides,10,2,20.0,4.37,,4.35,20.5,152.0
+Moisturizer,hyaluronic acid,135,42,31.1,4.26,4.28,4.25,52.0,117.0
+Moisturizer,vitamin C,90,20,22.2,4.28,4.32,4.27,52.0,90.5
+Moisturizer,peptides,50,18,36.0,4.23,4.27,4.21,64.0,65.0
+Moisturizer,niacinamide,29,11,37.9,4.26,4.23,4.28,48.0,115.0
+Moisturizer,lactic acid (AHA),20,5,25.0,4.31,4.34,4.29,65.0,66.5
+Moisturizer,retinoids,20,5,25.0,4.22,4.24,4.21,65.5,110.0
+Moisturizer,glycolic acid (AHA),17,3,17.6,4.25,4.33,4.23,60.0,87.0
+Moisturizer,ceramides,17,4,23.5,4.44,4.45,4.44,48.0,274.0
+Moisturizer,chemical UV filters,13,4,30.8,4.12,4.12,4.12,45.0,315.0
+Moisturizer,salicylic acid (BHA),12,3,25.0,4.3,4.13,4.36,43.0,468.0
+Moisturizer,centella,12,3,25.0,4.37,4.5,4.32,50.0,124.0
+Moisturizer,zinc oxide (mineral filter),9,4,44.4,4.13,4.05,4.2,42.0,984.0
+Sun protect,vitamin C,50,29,58.0,4.09,4.09,4.1,42.0,14.0
+Sun protect,hyaluronic acid,47,20,42.6,4.02,4.0,4.04,46.0,11.5
+Sun protect,chemical UV filters,28,13,46.4,4.14,4.08,4.19,44.5,11.5
+Sun protect,peptides,19,9,47.4,4.04,4.03,4.05,50.0,8.0
+Sun protect,retinoids,12,8,66.7,4.02,4.06,3.92,40.0,
+Sun protect,zinc oxide (mineral filter),10,7,70.0,4.0,3.96,4.1,28.0,42.0
+Sun protect,ceramides,8,7,87.5,4.19,4.2,,40.5,
+Treatment,hyaluronic acid,114,45,39.5,4.24,4.22,4.25,75.0,41.0
+Treatment,vitamin C,99,37,37.4,4.15,4.12,4.18,65.0,31.5
+Treatment,peptides,54,19,35.2,4.16,4.07,4.2,73.5,42.5
+Treatment,retinoids,40,16,40.0,4.3,4.26,4.32,78.5,20.0
+Treatment,glycolic acid (AHA),38,12,31.6,4.33,4.32,4.34,66.5,21.5
+Treatment,lactic acid (AHA),30,6,20.0,4.37,4.33,4.38,75.0,86.5
+Treatment,salicylic acid (BHA),26,13,50.0,4.24,4.12,4.35,53.0,112.0
+Treatment,niacinamide,25,5,20.0,4.23,4.12,4.26,55.0,69.0
+Treatment,ceramides,14,5,35.7,4.29,4.22,4.33,71.5,90.0
+Treatment,centella,12,1,8.3,4.26,,4.31,73.0,86.0
+Treatment,mandelic acid,8,2,25.0,4.28,,4.35,88.0,86.0
